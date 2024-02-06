@@ -1,0 +1,2 @@
+# Project Management: Synergy
+Synergy, founded in 2023, is a pioneering networking platform reshaping the hiring process. Our mission is to seamlessly connect candidates and recruiters, leveraging innovative methods such as tailored questionnaires and thorough resume analysis. Committed to efficiency and fairness, Synergy aims to streamline recruitment while providing valuable insights to both job seekers and hiring professionals.
